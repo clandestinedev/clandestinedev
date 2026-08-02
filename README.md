@@ -63,7 +63,10 @@ Building scalable backend systems, automation tools, and infrastructure with Go.
 
 ### AI & Automation
 
+### AI & Automation
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-333333?style=flat-square)
 
