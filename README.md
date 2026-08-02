@@ -1,32 +1,50 @@
-<h1 align="center">Hi 👋, I'm Al</h1>
+<div align="center">
 
-<p align="center">
-  <b>Backend Engineer • Go Developer • AI Automation</b>
-</p>
+# Hi there 👋, I'm Al
 
-<p align="center">
+### Backend Engineer • Go Developer • AI Automation
+
 Building scalable backend systems, automation tools, and infrastructure with Go.
-</p>
 
-<p align="center">
-  <a href="https://github.com/clandestinedev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/clandestinedev_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/clandestinedev">
+    <img src="https://img.shields.io/badge/github.com%2Fclandestinedev-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://instagram.com/clandestinedev_">
+    <img src="https://img.shields.io/badge/instagram.com%2Fclandestinedev__-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 👤 About Me
+
+<table>
+<tr>
+
+<td width="50%">
 
 - 🇮🇩 Based in Indonesia
 - 💻 Backend Engineer & Infrastructure Developer
 - ❤️ Mainly working with Go
+
+</td>
+
+<td width="50%">
+
 - 🤖 Exploring AI Automation & LLM Integrations
 - 🐧 Linux Enthusiast
-- 🚀 Building long-term software projects
+- 🌱 Building long-term open-source projects
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -41,17 +59,17 @@ Building scalable backend systems, automation tools, and infrastructure with Go.
 
 ### Backend
 
-![Fiber](https://img.shields.io/badge/Fiber-00A98F?style=flat-square)
+![Fiber](https://img.shields.io/badge/Fiber-00B894?style=flat-square)
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Cloud & DevOps
 
@@ -70,22 +88,26 @@ Building scalable backend systems, automation tools, and infrastructure with Go.
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=clandestinedev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=clandestinedev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clandestinedev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clandestinedev&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=clandestinedev&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-<i>"Keep building. Keep learning."</i>
-</p>
+<div align="center">
+
+*"Keep building. Keep learning."*
+
+</div>
