@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Al</h1>
+<h1 align="center">Hi 👋, I'm Al</h1>
 
 <p align="center">
-Backend Engineer • AI Automation • Go Developer
+Backend Engineer • Go Developer • AI Automation
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Building scalable backend systems, automation tools, and infrastructure with Go.
 - ❤️ Mainly working with Go
 - 🤖 Exploring AI Automation & LLM Integrations
 - 🐧 Linux Enthusiast
-- 🌱 Currently building long-term open-source projects
+- 🌱 Currently building long-term projects
 
 ---
 
@@ -25,11 +25,11 @@ Building scalable backend systems, automation tools, and infrastructure with Go.
 
 <p align="left">
 
-<a href="https://github.com/clandestinedev" target="_blank">
+<a href="https://github.com/clandestinedev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/clandestinedev_" target="_blank">
+<a href="https://instagram.com/clandestinedev_">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -42,25 +42,25 @@ Building scalable backend systems, automation tools, and infrastructure with Go.
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,python,ts,bash"/>
+<img height="42" src="https://skillicons.dev/icons?i=go,python,ts,bash" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker"/>
+<img height="42" src="https://skillicons.dev/icons?i=postgres,redis,docker" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind"/>
+<img height="42" src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=cloudflare,linux,git,nginx"/>
+<img height="42" src="https://skillicons.dev/icons?i=cloudflare,linux,git,nginx" />
 </p>
 
 ### AI & Automation
@@ -75,7 +75,7 @@ Building scalable backend systems, automation tools, and infrastructure with Go.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=clandestinedev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=clandestinedev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clandestinedev&layout=compact&theme=tokyonight&hide_border=true"/>
 
