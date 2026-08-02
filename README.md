@@ -23,7 +23,7 @@ Building scalable backend systems, automation tools, and infrastructure with Go.
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ## 👨‍💻 About Me
 
@@ -33,14 +33,15 @@ Building scalable backend systems, automation tools, and infrastructure with Go.
 - ❤️ Mainly working with Go
 - 🤖 Exploring AI Automation
 - 🐧 Linux Enthusiast
+- 🚀 Building long-term projects
 
 </td>
 
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-## 📈 GitHub Stats
+## 📊 Profile Summary
 
-<img src="https://github-readme-stats.vercel.app/api?username=clandestinedev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clandestinedev&theme=tokyonight"/>
 
 </td>
 
@@ -52,7 +53,7 @@ Building scalable backend systems, automation tools, and infrastructure with Go.
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ## 💻 Tech Stack
 
@@ -92,17 +93,21 @@ Building scalable backend systems, automation tools, and infrastructure with Go.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ## 🔥 Streak
 
 <img src="https://streak-stats.demolab.com?user=clandestinedev&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+<br>
 
-## 📊 Top Languages
+## 📚 Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clandestinedev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clandestinedev&theme=tokyonight"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clandestinedev&theme=tokyonight"/>
 
 </td>
 
@@ -119,6 +124,6 @@ Building scalable backend systems, automation tools, and infrastructure with Go.
 
 <div align="center">
 
-> *"Keep building. Keep learning."*
+> **Keep building. Keep learning.**
 
 </div>
