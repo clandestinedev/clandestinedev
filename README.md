@@ -94,6 +94,6 @@ Building scalable backend systems, automation tools, and infrastructure with Go.
 
 <div align="center">
 
-> *"Keep building. Keep learning."*
+> *"Wait, what was I doing? I just had a brain fart."*
 
 </div>
